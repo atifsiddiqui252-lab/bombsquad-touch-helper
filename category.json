@@ -1,0 +1,6 @@
+{
+  "name": "Movement Helper",
+  "description": "Movement helper for BombSquad API 9.",
+  "plugins_base_url": "https://github.com/atifsiddiqui252-lab/bombsquad-touch-helper/{content_type}/{tag}/plugins",
+  "plugins": {}
+}
