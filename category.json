@@ -1,6 +1,26 @@
 {
   "name": "Touch Response Helper",
-  "description": "Touch response helper",
+  "description": "Touch response helper for BombSquad API 9.",
   "plugins_base_url": "https://github.com/atifsiddiqui252-lab/bombsquad-touch-helper/{content_type}/{tag}/plugins",
-  "plugins": {}
+  "plugins": {
+    "touch_response_helper": {
+      "description": "Touch response helper for BombSquad API 9.",
+      "external_url": "",
+      "authors": [
+        {
+          "name": "Atif",
+          "email": "",
+          "discord": ""
+        }
+      ],
+      "versions": {
+        "1.0.0": {
+          "api_version": 9,
+          "commit_sha": "3d5fad7",
+          "released_on": "10-10-2026",
+          "md5sum": "acae26ab38af19aa9aa5289a7e6c23ef"
+        }
+      }
+    }
+  }
 }
