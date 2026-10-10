@@ -2,5 +2,24 @@
   "name": "Movement Helper",
   "description": "Movement helper for BombSquad API 9.",
   "plugins_base_url": "https://github.com/atifsiddiqui252-lab/bombsquad-touch-helper/{content_type}/{tag}/plugins",
-  "plugins": {}
+  "plugins": {
+    "movement_helper": {
+      "description": "Movement helper for BombSquad API 9.",
+      "external_url": "",
+      "authors": [
+        {
+          "name": "Atif",
+          "email": "",
+          "discord": ""
+        }
+      ],
+      "versions": {
+        "1.0.0": {
+          "api_version": 9,
+          "commit_sha": "",
+          "released_on": "10-10-2026"
+        }
+      }
+    }
+  }
 }
