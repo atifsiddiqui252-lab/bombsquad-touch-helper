@@ -29,3 +29,4 @@ class TouchResponseHelper(babase.Plugin):
             "Movement Boost 1.15x enabled",
             color=(0.4, 1.0, 0.4)
         )
+        
